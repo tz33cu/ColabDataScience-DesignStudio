@@ -1,5 +1,8 @@
-### Statistical Consulting and Collaborative Data Science
+![](deptlogo.png)
+
+### STAT GR 6105 - Statistical Consulting and Collaborative Data Science
 #### [Department of Statistics](https://stat.columbia.edu/), [Columbia University](https://www.columbia.edu/)
+#### Fall 2024
 
 #### Course Information
 
