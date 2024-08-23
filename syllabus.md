@@ -22,7 +22,12 @@
 The pre-requisite for this course includes working knowledge in Statistics and Probability, data mining, statistical modeling and machine learning (such as the 6101-6102 sequence + 6201). Prior **advanced** programming experience in R or Python is required. 
 
 #### Description  
-This course has two main components: 1) a consulting clinic where student consultants provide pro bono consulting service for Columbia community researchers under the supervision of the course's instructor(s), and 2) a project-based learning curriculum on collaborative data science covering topics from project scoping to the best practices of collaboration and reproducible data science. Both components challenge students to apply knowledge and skills covered in a statistical curriculum to real-world data science research projects. 
+This course has two main components:
+
+1. A consulting clinic where student consultants provide pro bono consulting service for Columbia community researchers under the supervision of the course's instructor(s)
+2. A project-based learning curriculum on collaborative data science covering topics from project scoping to the best practices of collaboration and reproducible data science. 
+
+Both components challenge students to apply knowledge and skills covered in a statistical curriculum to real-world data science research projects. 
 
 #### Course Objectives and Learning Outcomes
 ##### Objectives:
@@ -34,7 +39,7 @@ This course has two main components: 1) a consulting clinic where student consul
 ##### Learning Outcomes
 Students completing this course should be able to 
 
-+ effectively communicate with clients (asking questions and listening) to ascertain the data science challenges;
++ effectively communicate with clients (asking questions, listening, and setting expectations) to ascertain the data science challenges;
 + formulate challenges into coherent data science problems, map out the data science workflow, and identify the relevant resources and tools; 
 + provide guidance, next steps, or simple solutions on the identified problems;
 + effectively communicate with clients orally *and* in writing (e.g., reports or scoped project proposals) to help them make progress with their research, and understand the statistical advice or solution and its relevance to their project.
@@ -48,7 +53,7 @@ Students will be encouraged to work in pairs for both the course's mini projects
 ##### Collaborative Data Science Mini Projects
 
 1. (weeks 2-3) Prepare a plain language presentation of a classic statistical methodology; [In-class presentation]
-2. (weeks 4-6) Read and summarize the statistics or machine learning method(s) used in a scientific paper. [In-class presentation]
+2. (weeks 4-6) Read and summarize the statistics or machine learning method(s) and discuss the choice of data used in a scientific paper. [In-class presentation]
 3. (weeks 7-9) Present a current statistical application to an intro stat class. [In-class presentation as rehearsal]
 4. (weeks 10-13) Reproduce an applied statistics paper. [Final project]
 
@@ -67,9 +72,8 @@ Below is a tentative schedule for Fall 2024 that we will follow.
 + Week 10 (Nov 11): Reproducible data science; Project 4 discussion.
 + Week 11 (Nov 18): Reproducible data science; Project 4 discussion.
 + Week 12 (Nov 25): Reproducible data science; Project 4 discussion.
-+ Week 13 (Nov 27): Reproducible data science; Project 4 discussion.
-+ Week 14 (Dec 2): Project 4 presentations
-+ Week 15 (Dec 9): Wrapping up.
++ Week 13 (Dec 2): Project 4 presentations
++ Week 14 (Dec 9): Wrapping up.
 
 ##### Consulting Clinic
 Starting in Week 2, students will work in pairs and work on consulting requests received via the department's [consulting webpage](https://stat.columbia.edu/consulting-information/). This may include scheduling meetings (in-person or virtual) with the clients, summarize and present the consulting request during class on Mondays, preparing and communicating recommendations, suggestions, next steps and/or solutions to the client. For each consulting request, the student consultants responsible are also required to complete a standard consulting report. 
