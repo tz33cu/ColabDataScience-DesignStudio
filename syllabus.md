@@ -2,7 +2,7 @@
 
 ### STAT GR 6105 - Statistical Consulting and Collaborative Data Science
 #### [Department of Statistics](https://stat.columbia.edu/), [Columbia University](https://www.columbia.edu/)
-#### Fall 2024
+#### Spring 2025
 
 #### Course Information
 
@@ -11,7 +11,7 @@
 * Room: 1025 SSW
 * Instructors:
 	* [Tian Zheng](http://www.stat.columbia.edu/~tzheng/): <tian.zheng@columbia.edu> [(@tz33cu)](https://github.com/tz33cu)
-	* [Wayne Lee](https://leewtai.github.io/): <wtl2109@columbia.edu> [(@leewtai)](https://github.com/leewtai)
+	* Ashely Datta: <pd2511@columbia.edu>
 	* Office hours: by appointments. We will use our Monday class time to discuss consulting cases and assignments. 
 	* Contact preference: email or courseworks
 * Course websites (all accessible via courseworks): 
@@ -53,27 +53,27 @@ Students will be encouraged to work in pairs for both the course's mini projects
 ##### Collaborative Data Science Mini Projects
 
 1. (weeks 2-3) Prepare a plain language presentation of a classic statistical methodology; [In-class presentation]
-2. (weeks 4-6) Read and summarize the statistics or machine learning method(s) and discuss the choice of data used in a scientific paper. [In-class presentation]
-3. (weeks 7-9) Present a current statistical application to an intro stat class. [In-class presentation as rehearsal]
-4. (weeks 10-13) Reproduce an applied statistics paper. [Final project]
+2. (weeks 4-7) Read and summarize the statistics or machine learning method(s) and discuss the choice of data used in a scientific paper. [In-class presentation]
+3. (weeks 8-11) Present a current statistical application to an intro stat class. [In-class presentation as rehearsal]
+4. (weeks 12-13) Evaluate the reproducibility of a scientific paper. [Report]
 
+Below is a tentative schedule for Spring 2025 that we will follow.
 
-Below is a tentative schedule for Fall 2024 that we will follow.
-
-+ Week 1 (Sep 9): Introduction and Class Organization
-+ Week 2 (Sep 16): Consulting 101; Project 1 discussion.
-+ Week 3 (Sep 23): Project 1 presentations
-+ Week 4 (Sep 30): Scientific data science; Project 2 discussion.
-+ Week 5 (Oct 7): Scientific data science; Project 2 discussion.
-+ Week 6 (Oct 14): Project 2 presentations
-+ Week 7 (Oct 21): Presenting Statistics; Project 3 discussion
-+ Week 8 (Oct 28): Presenting Statistics; Project 3 rehearsals.
-+ Week 9 (Nov 4): No Class
-+ Week 10 (Nov 11): Reproducible data science; Project 4 discussion.
-+ Week 11 (Nov 18): Reproducible data science; Project 4 discussion.
-+ Week 12 (Nov 25): Reproducible data science; Project 4 discussion.
-+ Week 13 (Dec 2): Project 4 presentations
-+ Week 14 (Dec 9): Wrapping up.
++ Week 1 (Jan 27): Introduction and Class Organization
++ Week 2 (Feb 3): Consulting 101; Project 1 discussion.
++ Week 3 (Feb 10): Project 1 presentations
++ Week 4 (Feb 17): Scientific data science; Project 2 discussion.
++ Week 5 (Feb 24): Scientific data science; Project 2 discussion.
++ Week 6 (Mar 3): Scientific data science; Project 2 discussion.
++ Week 7 (Mar 10): Project 2 presentations
++ Week 8 (Mar 17): No Class
++ Week 9 (Mar 24): Presenting Statistics; Project 3 discussion
++ Week 10 (Mar 31): Presenting Statistics; Project 3 discussion
++ Week 11 (Apr 7): Presenting Statistics; Project 3 discussion
++ Week 12 (Apr 14): Presenting Statistics; Project 3 discussion
++ Week 13 (Apr 21): Reproducible data science; Project 4 discussion.
++ Week 14 (Apr 28): Project 4 presentations
++ Week 15 (May 5): Wrapping up.
 
 ##### Consulting Clinic
 Starting in Week 2, students will work in pairs and work on consulting requests received via the department's [consulting webpage](https://stat.columbia.edu/consulting-information/). This may include scheduling meetings (in-person or virtual) with the clients, summarize and present the consulting request during class on Mondays, preparing and communicating recommendations, suggestions, next steps and/or solutions to the client. For each consulting request, the student consultants responsible are also required to complete a standard consulting report. 
